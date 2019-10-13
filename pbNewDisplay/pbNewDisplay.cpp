@@ -13,7 +13,7 @@ struct character
 	int x;
 	int y;
 };
-
+//check if is commited
 //待用变量,应该再一开始先声明有什么变量，再主程序里再给他们赋值
 int score;
 int gameStage;//游戏阶段：1子机对战，2Boss战
