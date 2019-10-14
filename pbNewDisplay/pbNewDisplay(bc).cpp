@@ -1,5 +1,5 @@
 ﻿//判定时间翻了两番了。。
-//把文件上传到github上面了，测试一下会怎么样更新
+//把文件上传到github上面了，测试一下会怎么样更新。。。
 
 #include <windows.h>
 #include <stdio.h>//standard io
