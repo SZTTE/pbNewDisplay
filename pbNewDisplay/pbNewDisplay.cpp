@@ -1,4 +1,6 @@
-﻿#include <windows.h>
+﻿//这是一个未完成版本，是之前保存的副本
+//测试一下从bash上传到github？
+#include <windows.h>
 #include <stdio.h>//standard io
 #include<conio.h>//_getch();
 //为了实现随机
